@@ -1,0 +1,3 @@
+#!/bin/bash 
+chmod 777 -R lab0
+sudo rm -R lab0
